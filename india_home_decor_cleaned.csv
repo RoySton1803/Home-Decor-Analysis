@@ -1,0 +1,301 @@
+Customer ID,Age Group,Preferred Style,Purchase Frequency,Average Spend (INR),Top Competitor Chosen,Influencing Factor,Purchase Channel,City
+CUST1000,18-25,Industrial,3,45475.85,IKEA India,Social Influence,WhatsApp,Bangalore
+CUST1001,18-25,Unknown,5,24506.06,Amazon India,Unknown,Instagram,Bangalore
+CUST1002,26-35,Bohemian,5,24506.06,Flipkart,Brand Reputation,Instagram,Hyderabad
+CUST1003,46-60,Bohemian,2,42551.38,HomeTown,Price,In-Store,Delhi
+CUST1004,36-45,Unknown,1,9224.87,Flipkart,Price,In-Store,Bangalore
+CUST1005,18-25,Minimalist,3,32021.42,Amazon India,Sustainability,Instagram,Bangalore
+CUST1006,Unknown,Bohemian,3,24506.06,Urban Ladder,Discounts,WhatsApp,Bangalore
+CUST1007,46-60,Minimalist,3,40787.7,Flipkart,Brand Reputation,In-Store,Chennai
+CUST1008,46-60,Traditional,3,48129.91,HomeTown,Unknown,In-Store,Bangalore
+CUST1009,46-60,Bohemian,3,14688.41,Urban Ladder,Sustainability,In-Store,Kolkata
+CUST1010,46-60,Minimalist,1,3664.35,Unknown,Brand Reputation,Online,Chennai
+CUST1011,Unknown,Modern,3,39454.99,IKEA India,Discounts,WhatsApp,Chennai
+CUST1012,Unknown,Unknown,3,1116.75,IKEA India,Social Influence,Unknown,Kolkata
+CUST1013,Unknown,Bohemian,1,24506.06,Pepperfry,Price,Instagram,Bangalore
+CUST1014,Unknown,Industrial,6,17439.48,HomeTown,Price,Unknown,Hyderabad
+CUST1015,46-60,Modern,1,24506.06,Flipkart,Quality,WhatsApp,Kolkata
+CUST1016,Unknown,Minimalist,3,13663.27,Urban Ladder,Social Influence,Online,Chennai
+CUST1017,46-60,Traditional,3,24506.06,Amazon India,Quality,In-Store,Bangalore
+CUST1018,18-25,Unknown,1,45363.02,HomeTown,Quality,In-Store,Mumbai
+CUST1019,Unknown,Unknown,3,24506.06,Urban Ladder,Sustainability,Unknown,Unknown
+CUST1020,36-45,Industrial,3,24506.06,Urban Ladder,Unknown,In-Store,Delhi
+CUST1021,Unknown,Minimalist,6,47132.86,IKEA India,Price,Instagram,Pune
+CUST1022,18-25,Minimalist,3,14976.03,Amazon India,Social Influence,Unknown,Kolkata
+CUST1023,36-45,Industrial,3,24506.06,Unknown,Social Influence,WhatsApp,Unknown
+CUST1024,46-60,Traditional,3,12589.93,Flipkart,Sustainability,Online,Mumbai
+CUST1025,36-45,Industrial,3,35186.77,HomeTown,Price,In-Store,Bangalore
+CUST1026,26-35,Minimalist,3,24506.06,Amazon India,Price,WhatsApp,Chennai
+CUST1027,36-45,Industrial,1,24506.06,Unknown,Discounts,Unknown,Pune
+CUST1028,36-45,Unknown,3,30363.26,Pepperfry,Sustainability,In-Store,Hyderabad
+CUST1029,46-60,Bohemian,3,12061.56,Amazon India,Price,Unknown,Bangalore
+CUST1030,Unknown,Unknown,3,24506.06,Amazon India,Sustainability,In-Store,Kolkata
+CUST1031,Unknown,Bohemian,2,24506.06,HomeTown,Price,Instagram,Pune
+CUST1032,Unknown,Unknown,2,24506.06,IKEA India,Unknown,Instagram,Bangalore
+CUST1033,18-25,Industrial,3,38507.74,Amazon India,Unknown,Online,Bangalore
+CUST1034,18-25,Modern,2,8894.73,Pepperfry,Quality,WhatsApp,Unknown
+CUST1035,Unknown,Modern,4,1514.06,Amazon India,Quality,Unknown,Unknown
+CUST1036,26-35,Minimalist,3,25107.98,Flipkart,Social Influence,In-Store,Bangalore
+CUST1037,36-45,Bohemian,4,6154.53,Unknown,Brand Reputation,Unknown,Kolkata
+CUST1038,36-45,Minimalist,4,24506.06,Pepperfry,Brand Reputation,In-Store,Kolkata
+CUST1039,36-45,Bohemian,3,24506.06,HomeTown,Brand Reputation,Instagram,Unknown
+CUST1040,26-35,Modern,5,24506.06,Unknown,Price,Online,Delhi
+CUST1041,36-45,Industrial,3,11075.7,IKEA India,Quality,Unknown,Delhi
+CUST1042,36-45,Bohemian,3,43021.29,HomeTown,Price,Unknown,Kolkata
+CUST1043,36-45,Bohemian,3,24506.06,IKEA India,Price,Instagram,Unknown
+CUST1044,Unknown,Unknown,6,24506.06,IKEA India,Sustainability,Instagram,Kolkata
+CUST1045,36-45,Bohemian,3,2988.81,Amazon India,Unknown,Unknown,Chennai
+CUST1046,Unknown,Minimalist,5,12552.34,Urban Ladder,Quality,In-Store,Delhi
+CUST1047,Unknown,Minimalist,3,36837.36,HomeTown,Quality,In-Store,Bangalore
+CUST1048,Unknown,Minimalist,3,33149.28,IKEA India,Social Influence,In-Store,Hyderabad
+CUST1049,36-45,Bohemian,3,34358.61,Amazon India,Quality,WhatsApp,Delhi
+CUST1050,26-35,Bohemian,3,24506.06,Unknown,Sustainability,In-Store,Chennai
+CUST1051,26-35,Bohemian,3,18190.18,Pepperfry,Price,WhatsApp,Hyderabad
+CUST1052,26-35,Bohemian,3,25196.09,IKEA India,Sustainability,Unknown,Unknown
+CUST1053,18-25,Unknown,2,36613.08,IKEA India,Sustainability,In-Store,Hyderabad
+CUST1054,Unknown,Modern,3,14450.32,Unknown,Price,Instagram,Hyderabad
+CUST1055,46-60,Industrial,3,32604.88,Flipkart,Price,In-Store,Bangalore
+CUST1056,26-35,Bohemian,3,15938.74,Unknown,Price,Unknown,Unknown
+CUST1057,26-35,Industrial,2,4338.18,Flipkart,Social Influence,In-Store,Bangalore
+CUST1058,26-35,Traditional,3,24506.06,Flipkart,Quality,In-Store,Bangalore
+CUST1059,46-60,Modern,5,24506.06,Flipkart,Unknown,Online,Pune
+CUST1060,18-25,Modern,3,24506.06,IKEA India,Brand Reputation,In-Store,Kolkata
+CUST1061,26-35,Bohemian,2,24506.06,Unknown,Social Influence,WhatsApp,Unknown
+CUST1062,46-60,Bohemian,5,24506.06,Urban Ladder,Discounts,Unknown,Kolkata
+CUST1063,18-25,Industrial,4,24506.06,HomeTown,Price,In-Store,Hyderabad
+CUST1064,Unknown,Unknown,1,49808.52,Unknown,Unknown,WhatsApp,Bangalore
+CUST1065,26-35,Bohemian,3,24506.06,HomeTown,Quality,In-Store,Mumbai
+CUST1066,Unknown,Bohemian,3,6837.12,Flipkart,Discounts,Unknown,Pune
+CUST1067,18-25,Minimalist,3,1541.28,Unknown,Discounts,Instagram,Kolkata
+CUST1068,Unknown,Industrial,3,3625.57,IKEA India,Price,Instagram,Chennai
+CUST1069,46-60,Minimalist,3,4613.05,IKEA India,Brand Reputation,WhatsApp,Delhi
+CUST1070,18-25,Minimalist,4,11647.61,Pepperfry,Sustainability,WhatsApp,Unknown
+CUST1071,46-60,Industrial,6,24506.06,Unknown,Price,In-Store,Unknown
+CUST1072,36-45,Modern,5,24506.06,Flipkart,Discounts,In-Store,Hyderabad
+CUST1073,36-45,Minimalist,3,24506.06,HomeTown,Discounts,Online,Kolkata
+CUST1074,46-60,Bohemian,3,24506.06,HomeTown,Brand Reputation,Online,Chennai
+CUST1075,18-25,Bohemian,3,10077.42,IKEA India,Price,In-Store,Bangalore
+CUST1076,36-45,Industrial,3,28729.05,Amazon India,Unknown,Online,Hyderabad
+CUST1077,46-60,Bohemian,3,12568.59,Urban Ladder,Price,WhatsApp,Chennai
+CUST1078,46-60,Traditional,6,24506.06,IKEA India,Social Influence,Online,Pune
+CUST1079,26-35,Bohemian,3,12771.51,Urban Ladder,Unknown,In-Store,Delhi
+CUST1080,36-45,Minimalist,3,5292.49,Flipkart,Price,WhatsApp,Pune
+CUST1081,Unknown,Bohemian,5,34593.74,HomeTown,Social Influence,In-Store,Bangalore
+CUST1082,46-60,Modern,3,7923.06,Amazon India,Quality,WhatsApp,Bangalore
+CUST1083,36-45,Bohemian,5,18233.35,Urban Ladder,Brand Reputation,WhatsApp,Bangalore
+CUST1084,18-25,Unknown,5,24506.06,IKEA India,Discounts,WhatsApp,Hyderabad
+CUST1085,Unknown,Unknown,6,46759.06,HomeTown,Sustainability,Instagram,Mumbai
+CUST1086,36-45,Industrial,3,24506.06,IKEA India,Unknown,WhatsApp,Mumbai
+CUST1087,Unknown,Minimalist,3,24506.06,Urban Ladder,Brand Reputation,WhatsApp,Bangalore
+CUST1088,Unknown,Minimalist,6,25027.81,Amazon India,Sustainability,Instagram,Bangalore
+CUST1089,18-25,Minimalist,1,24506.06,IKEA India,Price,Instagram,Unknown
+CUST1090,Unknown,Industrial,2,34941.8,IKEA India,Unknown,In-Store,Unknown
+CUST1091,18-25,Minimalist,4,24133.85,Pepperfry,Brand Reputation,WhatsApp,Unknown
+CUST1092,26-35,Bohemian,3,45076.74,Urban Ladder,Brand Reputation,Unknown,Delhi
+CUST1093,36-45,Minimalist,4,24506.06,IKEA India,Brand Reputation,In-Store,Pune
+CUST1094,18-25,Unknown,1,24506.06,IKEA India,Price,Online,Kolkata
+CUST1095,46-60,Minimalist,3,24506.06,IKEA India,Price,WhatsApp,Mumbai
+CUST1096,36-45,Traditional,3,24506.06,Amazon India,Price,Online,Bangalore
+CUST1097,18-25,Modern,3,24506.06,HomeTown,Unknown,WhatsApp,Mumbai
+CUST1098,26-35,Modern,3,10495.23,IKEA India,Brand Reputation,Online,Mumbai
+CUST1099,36-45,Traditional,3,39944.42,IKEA India,Sustainability,In-Store,Chennai
+CUST1100,36-45,Unknown,3,41287.65,Urban Ladder,Brand Reputation,In-Store,Hyderabad
+CUST1101,36-45,Minimalist,3,24506.06,IKEA India,Unknown,Online,Hyderabad
+CUST1102,Unknown,Modern,3,33889.6,IKEA India,Quality,In-Store,Delhi
+CUST1103,26-35,Traditional,3,4410.51,IKEA India,Social Influence,In-Store,Chennai
+CUST1104,36-45,Minimalist,3,32005.28,IKEA India,Discounts,Instagram,Hyderabad
+CUST1105,36-45,Modern,2,24506.06,Pepperfry,Brand Reputation,WhatsApp,Pune
+CUST1106,36-45,Bohemian,6,42717.06,Flipkart,Brand Reputation,In-Store,Chennai
+CUST1107,Unknown,Bohemian,3,24506.06,Amazon India,Price,In-Store,Pune
+CUST1108,18-25,Modern,2,8216.25,Pepperfry,Brand Reputation,Unknown,Unknown
+CUST1109,Unknown,Minimalist,6,24506.06,Urban Ladder,Brand Reputation,Unknown,Delhi
+CUST1110,36-45,Minimalist,3,24506.06,IKEA India,Discounts,Unknown,Hyderabad
+CUST1111,Unknown,Bohemian,3,25059.34,IKEA India,Unknown,WhatsApp,Bangalore
+CUST1112,36-45,Traditional,3,15525.49,HomeTown,Brand Reputation,WhatsApp,Mumbai
+CUST1113,Unknown,Bohemian,6,24699.47,HomeTown,Price,In-Store,Bangalore
+CUST1114,26-35,Industrial,3,24506.06,HomeTown,Price,Unknown,Unknown
+CUST1115,46-60,Traditional,5,24506.06,Flipkart,Social Influence,Instagram,Kolkata
+CUST1116,46-60,Industrial,4,24506.06,HomeTown,Price,Instagram,Mumbai
+CUST1117,46-60,Minimalist,3,4939.07,Flipkart,Unknown,Unknown,Delhi
+CUST1118,46-60,Modern,3,24506.06,Urban Ladder,Price,Unknown,Bangalore
+CUST1119,46-60,Minimalist,3,8968.74,Pepperfry,Price,In-Store,Pune
+CUST1120,46-60,Minimalist,5,14147.04,Amazon India,Unknown,Online,Hyderabad
+CUST1121,18-25,Minimalist,3,42231.17,Flipkart,Discounts,In-Store,Bangalore
+CUST1122,Unknown,Minimalist,3,24506.06,IKEA India,Discounts,WhatsApp,Hyderabad
+CUST1123,36-45,Modern,3,14696.68,Flipkart,Price,Instagram,Kolkata
+CUST1124,18-25,Minimalist,3,24506.06,IKEA India,Price,In-Store,Chennai
+CUST1125,18-25,Minimalist,3,24506.06,IKEA India,Social Influence,Unknown,Hyderabad
+CUST1126,Unknown,Bohemian,3,24506.06,IKEA India,Sustainability,Online,Delhi
+CUST1127,Unknown,Unknown,3,24506.06,Pepperfry,Brand Reputation,In-Store,Unknown
+CUST1128,18-25,Modern,3,24506.06,Urban Ladder,Social Influence,In-Store,Bangalore
+CUST1129,36-45,Minimalist,3,24506.06,Amazon India,Price,Online,Kolkata
+CUST1130,26-35,Modern,6,45683.04,Pepperfry,Price,Instagram,Unknown
+CUST1131,26-35,Minimalist,1,24506.06,HomeTown,Quality,Instagram,Unknown
+CUST1132,18-25,Industrial,3,24506.06,Amazon India,Price,Unknown,Unknown
+CUST1133,36-45,Minimalist,3,24506.06,HomeTown,Social Influence,In-Store,Delhi
+CUST1134,26-35,Modern,3,24506.06,Urban Ladder,Social Influence,WhatsApp,Unknown
+CUST1135,46-60,Bohemian,3,22636.54,Urban Ladder,Discounts,WhatsApp,Unknown
+CUST1136,Unknown,Minimalist,3,24506.06,Flipkart,Sustainability,Unknown,Chennai
+CUST1137,26-35,Bohemian,4,49026.99,IKEA India,Unknown,Online,Kolkata
+CUST1138,36-45,Minimalist,3,32670.7,IKEA India,Sustainability,WhatsApp,Mumbai
+CUST1139,46-60,Industrial,4,24506.06,Flipkart,Social Influence,WhatsApp,Chennai
+CUST1140,36-45,Traditional,3,8683.27,HomeTown,Social Influence,In-Store,Mumbai
+CUST1141,46-60,Bohemian,5,22009.15,Unknown,Sustainability,Instagram,Unknown
+CUST1142,18-25,Minimalist,3,24506.06,Pepperfry,Unknown,Online,Chennai
+CUST1143,36-45,Minimalist,3,40308.85,IKEA India,Quality,In-Store,Hyderabad
+CUST1144,Unknown,Industrial,4,37750.73,Urban Ladder,Social Influence,Instagram,Mumbai
+CUST1145,Unknown,Minimalist,4,24506.06,Unknown,Price,In-Store,Mumbai
+CUST1146,36-45,Industrial,3,24506.06,IKEA India,Quality,Unknown,Kolkata
+CUST1147,18-25,Industrial,4,24506.06,IKEA India,Unknown,Online,Bangalore
+CUST1148,46-60,Modern,2,13021.26,Flipkart,Unknown,Instagram,Kolkata
+CUST1149,18-25,Modern,3,6346.76,Unknown,Unknown,Unknown,Bangalore
+CUST1150,18-25,Bohemian,4,29679.86,Flipkart,Sustainability,In-Store,Chennai
+CUST1151,18-25,Industrial,3,7374.87,Amazon India,Discounts,Online,Delhi
+CUST1152,46-60,Unknown,3,29399.39,Flipkart,Brand Reputation,Online,Pune
+CUST1153,46-60,Minimalist,2,3226.59,Unknown,Unknown,WhatsApp,Hyderabad
+CUST1154,46-60,Bohemian,1,24506.06,Amazon India,Discounts,Unknown,Mumbai
+CUST1155,36-45,Minimalist,3,24506.06,IKEA India,Discounts,WhatsApp,Hyderabad
+CUST1156,18-25,Bohemian,3,16490.42,Urban Ladder,Price,Unknown,Mumbai
+CUST1157,Unknown,Traditional,3,21447.41,IKEA India,Social Influence,Instagram,Pune
+CUST1158,Unknown,Modern,3,24506.06,Pepperfry,Sustainability,WhatsApp,Delhi
+CUST1159,18-25,Modern,3,24506.06,IKEA India,Price,Online,Delhi
+CUST1160,36-45,Traditional,2,12257.45,HomeTown,Unknown,Instagram,Kolkata
+CUST1161,18-25,Modern,3,44606.57,Urban Ladder,Sustainability,Online,Kolkata
+CUST1162,46-60,Unknown,3,24152.98,Unknown,Sustainability,WhatsApp,Mumbai
+CUST1163,18-25,Industrial,6,8398.48,IKEA India,Sustainability,In-Store,Chennai
+CUST1164,Unknown,Unknown,3,24506.06,Unknown,Sustainability,Unknown,Unknown
+CUST1165,46-60,Minimalist,2,12325.99,Pepperfry,Brand Reputation,Unknown,Delhi
+CUST1166,26-35,Traditional,3,32513.25,IKEA India,Price,In-Store,Pune
+CUST1167,46-60,Unknown,3,24506.06,HomeTown,Discounts,In-Store,Unknown
+CUST1168,Unknown,Traditional,3,24506.06,IKEA India,Brand Reputation,In-Store,Pune
+CUST1169,36-45,Unknown,3,24506.06,Flipkart,Price,In-Store,Hyderabad
+CUST1170,36-45,Traditional,2,24506.06,Urban Ladder,Sustainability,Instagram,Hyderabad
+CUST1171,18-25,Minimalist,6,24506.06,Amazon India,Social Influence,Online,Hyderabad
+CUST1172,36-45,Unknown,3,24506.06,HomeTown,Sustainability,In-Store,Mumbai
+CUST1173,18-25,Bohemian,3,39331.79,IKEA India,Sustainability,Online,Bangalore
+CUST1174,18-25,Minimalist,3,24506.06,HomeTown,Quality,WhatsApp,Hyderabad
+CUST1175,Unknown,Minimalist,3,33375.43,Urban Ladder,Sustainability,Instagram,Bangalore
+CUST1176,46-60,Minimalist,3,24506.06,Unknown,Price,Unknown,Hyderabad
+CUST1177,36-45,Bohemian,4,24506.06,IKEA India,Unknown,Unknown,Pune
+CUST1178,36-45,Unknown,3,18780.5,Urban Ladder,Price,Instagram,Bangalore
+CUST1179,26-35,Minimalist,3,19368.74,Flipkart,Discounts,WhatsApp,Unknown
+CUST1180,36-45,Industrial,4,49421.39,HomeTown,Price,WhatsApp,Mumbai
+CUST1181,26-35,Traditional,3,24506.06,Unknown,Social Influence,Online,Unknown
+CUST1182,46-60,Bohemian,3,28778.62,Urban Ladder,Price,In-Store,Bangalore
+CUST1183,18-25,Minimalist,3,12298.14,Urban Ladder,Price,Unknown,Chennai
+CUST1184,18-25,Modern,3,26155.78,Amazon India,Price,Online,Hyderabad
+CUST1185,Unknown,Minimalist,3,44705.89,Urban Ladder,Quality,Online,Hyderabad
+CUST1186,46-60,Bohemian,3,24506.06,Pepperfry,Price,Online,Bangalore
+CUST1187,36-45,Bohemian,3,42220.33,IKEA India,Social Influence,Instagram,Hyderabad
+CUST1188,26-35,Modern,3,24506.06,IKEA India,Brand Reputation,In-Store,Delhi
+CUST1189,46-60,Modern,3,2513.43,Urban Ladder,Quality,Instagram,Chennai
+CUST1190,Unknown,Minimalist,2,24506.06,Pepperfry,Brand Reputation,Instagram,Kolkata
+CUST1191,26-35,Modern,1,24506.06,Unknown,Brand Reputation,In-Store,Delhi
+CUST1192,36-45,Industrial,3,24132.92,Pepperfry,Social Influence,WhatsApp,Hyderabad
+CUST1193,36-45,Traditional,6,24506.06,IKEA India,Price,In-Store,Hyderabad
+CUST1194,18-25,Bohemian,6,41340.5,Amazon India,Unknown,Online,Kolkata
+CUST1195,36-45,Modern,5,24506.06,Flipkart,Price,In-Store,Pune
+CUST1196,26-35,Traditional,3,24506.06,Urban Ladder,Unknown,Unknown,Bangalore
+CUST1197,26-35,Minimalist,3,24506.06,IKEA India,Unknown,Unknown,Unknown
+CUST1198,26-35,Minimalist,3,24506.06,HomeTown,Brand Reputation,In-Store,Bangalore
+CUST1199,46-60,Bohemian,3,24506.06,HomeTown,Price,WhatsApp,Unknown
+CUST1200,26-35,Industrial,5,38577.48,Pepperfry,Price,In-Store,Delhi
+CUST1201,36-45,Traditional,3,24506.06,Pepperfry,Quality,In-Store,Bangalore
+CUST1202,36-45,Traditional,3,24506.06,Amazon India,Price,WhatsApp,Delhi
+CUST1203,36-45,Modern,3,23170.61,IKEA India,Sustainability,Online,Unknown
+CUST1204,46-60,Bohemian,6,35095.86,Amazon India,Quality,Online,Bangalore
+CUST1205,18-25,Unknown,3,24506.06,Flipkart,Quality,In-Store,Hyderabad
+CUST1206,18-25,Bohemian,3,24506.06,Pepperfry,Brand Reputation,Online,Bangalore
+CUST1207,36-45,Industrial,3,24506.06,Unknown,Discounts,Online,Mumbai
+CUST1208,36-45,Minimalist,5,12831.74,Flipkart,Price,In-Store,Delhi
+CUST1209,36-45,Traditional,2,24506.06,Amazon India,Discounts,In-Store,Kolkata
+CUST1210,46-60,Bohemian,6,24506.06,IKEA India,Price,Online,Bangalore
+CUST1211,36-45,Modern,5,24506.06,Flipkart,Sustainability,In-Store,Chennai
+CUST1212,Unknown,Minimalist,3,35214.75,IKEA India,Price,In-Store,Bangalore
+CUST1213,46-60,Minimalist,3,24506.06,Flipkart,Discounts,In-Store,Delhi
+CUST1214,46-60,Unknown,3,24506.06,Urban Ladder,Social Influence,Online,Mumbai
+CUST1215,26-35,Traditional,2,24506.06,Amazon India,Price,Unknown,Bangalore
+CUST1216,26-35,Minimalist,3,32273.46,Urban Ladder,Social Influence,Unknown,Unknown
+CUST1217,26-35,Modern,6,24506.06,Unknown,Brand Reputation,WhatsApp,Unknown
+CUST1218,Unknown,Unknown,3,39271.97,HomeTown,Social Influence,Unknown,Bangalore
+CUST1219,26-35,Industrial,2,34466.06,Amazon India,Price,In-Store,Hyderabad
+CUST1220,18-25,Unknown,2,11355.93,HomeTown,Brand Reputation,Instagram,Hyderabad
+CUST1221,Unknown,Bohemian,5,8710.52,HomeTown,Discounts,In-Store,Chennai
+CUST1222,26-35,Traditional,3,22868.15,IKEA India,Brand Reputation,In-Store,Mumbai
+CUST1223,36-45,Bohemian,2,24506.06,IKEA India,Brand Reputation,In-Store,Chennai
+CUST1224,36-45,Industrial,3,37349.79,Urban Ladder,Quality,WhatsApp,Hyderabad
+CUST1225,36-45,Minimalist,3,24506.06,IKEA India,Price,Instagram,Chennai
+CUST1226,26-35,Unknown,3,24506.06,Flipkart,Price,In-Store,Kolkata
+CUST1227,46-60,Modern,6,24506.06,Flipkart,Price,Unknown,Unknown
+CUST1228,26-35,Modern,2,44447.65,IKEA India,Discounts,WhatsApp,Bangalore
+CUST1229,26-35,Unknown,4,34985.01,Flipkart,Discounts,Unknown,Kolkata
+CUST1230,Unknown,Minimalist,3,24506.06,Unknown,Price,In-Store,Pune
+CUST1231,18-25,Bohemian,3,24506.06,IKEA India,Discounts,In-Store,Bangalore
+CUST1232,18-25,Modern,3,24506.06,Pepperfry,Price,In-Store,Bangalore
+CUST1233,Unknown,Unknown,3,3767.1,IKEA India,Price,Instagram,Kolkata
+CUST1234,26-35,Unknown,5,34124.85,Urban Ladder,Sustainability,In-Store,Kolkata
+CUST1235,46-60,Bohemian,3,24506.06,Unknown,Brand Reputation,In-Store,Bangalore
+CUST1236,46-60,Minimalist,3,25197.78,Unknown,Unknown,WhatsApp,Unknown
+CUST1237,Unknown,Bohemian,3,19482.93,Pepperfry,Unknown,Online,Hyderabad
+CUST1238,36-45,Bohemian,3,5690.87,Unknown,Quality,Unknown,Bangalore
+CUST1239,36-45,Modern,5,5027.35,Unknown,Brand Reputation,In-Store,Unknown
+CUST1240,36-45,Minimalist,3,12290.93,HomeTown,Brand Reputation,Unknown,Bangalore
+CUST1241,36-45,Unknown,3,22243.92,HomeTown,Brand Reputation,Unknown,Bangalore
+CUST1242,26-35,Industrial,3,24506.06,Unknown,Price,WhatsApp,Bangalore
+CUST1243,36-45,Traditional,4,23394.46,Unknown,Price,In-Store,Hyderabad
+CUST1244,26-35,Traditional,4,47616.34,Amazon India,Quality,WhatsApp,Unknown
+CUST1245,18-25,Modern,3,11145.19,Flipkart,Price,Instagram,Unknown
+CUST1246,Unknown,Minimalist,4,39492.07,Urban Ladder,Sustainability,In-Store,Bangalore
+CUST1247,26-35,Bohemian,2,24506.06,Unknown,Brand Reputation,Instagram,Bangalore
+CUST1248,18-25,Bohemian,3,24506.06,HomeTown,Quality,Instagram,Bangalore
+CUST1249,Unknown,Traditional,3,30906.42,Urban Ladder,Sustainability,WhatsApp,Bangalore
+CUST1250,Unknown,Bohemian,3,48902.43,IKEA India,Brand Reputation,In-Store,Kolkata
+CUST1251,36-45,Traditional,2,37468.24,IKEA India,Price,Unknown,Bangalore
+CUST1252,18-25,Minimalist,1,31510.82,IKEA India,Brand Reputation,WhatsApp,Pune
+CUST1253,36-45,Traditional,3,16203.01,IKEA India,Sustainability,WhatsApp,Pune
+CUST1254,26-35,Modern,3,24506.06,HomeTown,Discounts,Online,Chennai
+CUST1255,46-60,Unknown,1,33629.54,Urban Ladder,Brand Reputation,Instagram,Unknown
+CUST1256,18-25,Traditional,3,24506.06,Urban Ladder,Brand Reputation,WhatsApp,Chennai
+CUST1257,18-25,Bohemian,1,13958.33,HomeTown,Discounts,In-Store,Unknown
+CUST1258,Unknown,Traditional,3,48100.88,IKEA India,Quality,Online,Bangalore
+CUST1259,26-35,Minimalist,3,7292.64,Amazon India,Brand Reputation,Instagram,Chennai
+CUST1260,18-25,Minimalist,1,24506.06,IKEA India,Price,WhatsApp,Hyderabad
+CUST1261,26-35,Unknown,2,24506.06,Pepperfry,Discounts,In-Store,Unknown
+CUST1262,46-60,Bohemian,5,29589.98,Unknown,Price,Online,Bangalore
+CUST1263,36-45,Minimalist,3,49441.0,IKEA India,Quality,In-Store,Mumbai
+CUST1264,18-25,Bohemian,2,24506.06,Urban Ladder,Price,Unknown,Pune
+CUST1265,18-25,Modern,5,29601.73,Amazon India,Social Influence,Instagram,Kolkata
+CUST1266,Unknown,Minimalist,3,15779.79,Flipkart,Unknown,Instagram,Kolkata
+CUST1267,Unknown,Bohemian,4,24506.06,IKEA India,Price,In-Store,Bangalore
+CUST1268,18-25,Bohemian,3,24506.06,Urban Ladder,Discounts,In-Store,Bangalore
+CUST1269,18-25,Modern,3,5107.7,IKEA India,Discounts,Unknown,Bangalore
+CUST1270,36-45,Modern,3,24506.06,HomeTown,Price,Unknown,Delhi
+CUST1271,18-25,Industrial,3,27500.31,Flipkart,Unknown,Unknown,Mumbai
+CUST1272,18-25,Unknown,1,30356.97,IKEA India,Price,In-Store,Bangalore
+CUST1273,46-60,Modern,3,41096.58,Pepperfry,Discounts,In-Store,Unknown
+CUST1274,26-35,Industrial,5,24506.06,Amazon India,Unknown,Instagram,Bangalore
+CUST1275,18-25,Unknown,3,24506.06,Flipkart,Discounts,WhatsApp,Mumbai
+CUST1276,18-25,Bohemian,3,18140.28,IKEA India,Unknown,WhatsApp,Hyderabad
+CUST1277,18-25,Bohemian,6,6529.13,Unknown,Quality,Unknown,Delhi
+CUST1278,26-35,Minimalist,3,43876.21,Urban Ladder,Unknown,Online,Hyderabad
+CUST1279,18-25,Bohemian,2,3504.57,Pepperfry,Discounts,Instagram,Pune
+CUST1280,18-25,Traditional,4,49985.85,Amazon India,Price,In-Store,Chennai
+CUST1281,18-25,Industrial,5,24506.06,HomeTown,Discounts,Instagram,Unknown
+CUST1282,18-25,Industrial,3,45099.57,Flipkart,Price,Online,Kolkata
+CUST1283,26-35,Bohemian,3,22717.75,Flipkart,Social Influence,In-Store,Pune
+CUST1284,46-60,Minimalist,3,20552.65,Unknown,Unknown,Instagram,Kolkata
+CUST1285,Unknown,Minimalist,3,18297.5,Urban Ladder,Quality,Unknown,Kolkata
+CUST1286,46-60,Bohemian,5,24506.06,IKEA India,Quality,Unknown,Unknown
+CUST1287,36-45,Minimalist,2,24506.06,Unknown,Discounts,Instagram,Mumbai
+CUST1288,18-25,Industrial,1,24506.06,IKEA India,Discounts,In-Store,Delhi
+CUST1289,36-45,Bohemian,4,30077.79,Amazon India,Social Influence,Unknown,Bangalore
+CUST1290,36-45,Traditional,3,24506.06,HomeTown,Social Influence,Instagram,Mumbai
+CUST1291,Unknown,Unknown,5,24506.06,Flipkart,Price,In-Store,Kolkata
+CUST1292,18-25,Modern,2,24506.06,Flipkart,Price,In-Store,Delhi
+CUST1293,26-35,Minimalist,5,28271.61,Pepperfry,Social Influence,In-Store,Chennai
+CUST1294,46-60,Industrial,4,24506.06,Flipkart,Brand Reputation,In-Store,Bangalore
+CUST1295,26-35,Bohemian,3,24506.06,HomeTown,Social Influence,In-Store,Pune
+CUST1296,26-35,Bohemian,4,24506.06,Pepperfry,Unknown,In-Store,Mumbai
+CUST1297,18-25,Minimalist,3,19068.07,Pepperfry,Price,Instagram,Unknown
+CUST1298,Unknown,Unknown,3,24506.06,Unknown,Quality,Online,Unknown
+CUST1299,36-45,Minimalist,2,24506.06,HomeTown,Social Influence,WhatsApp,Delhi
